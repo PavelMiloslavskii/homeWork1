@@ -10,7 +10,6 @@ public class BoxOfSweetsImpl implements BoxOfSweets {
         allKindsOfSweets.add(new Marmalade("Haribo", 16, 24.90, 9990));
         allKindsOfSweets.add(new Chocolate("Milka", 20, 35.90, 9991));
         allKindsOfSweets.add(new Cookie("ChocoPie", 35, 55.80, 9992));
-
     }
 
     @Override
